@@ -23,8 +23,9 @@ Welcome to my personal portfolio website! This site highlights my work, skills, 
 ## 🧑‍💻 Author
 
 **Priya Singh**  
-- GitHub: [github.com/priya-singh4040](https://github.com/priya-singh4040)  
+- GitHub: [github.com/priya-singh4040](https://github.com/priya-singh404)  
 
 ---
 
 Thanks for visiting! 😊 Feel free to explore and connect.
+
